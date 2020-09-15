@@ -1,0 +1,2 @@
+# sass-pertama
+menggunakan sass
